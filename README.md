@@ -13,7 +13,4 @@ I am a **Mobile Developer** passionate about building scalable and efficient app
 ### 🛠 Tech Stack  
 - **Languages:** Dart, Swift
 - **Frameworks:** Flutter, SwiftUI, UIKit
----
 
-### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ofdikili&show_icons=true&theme=radical)  
